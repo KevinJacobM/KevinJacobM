@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KevinJacobM
-- 👀 I’m interested in FrontEnd Development.
+- 👀 I’m interested in Mobile Development.
 - 🌱 I’m currently learning HTML & CSS
 - 💞️ I’m looking to collaborate on HTML & CSS
 - 📫 How to reach me kevinjprog@gmail.com
